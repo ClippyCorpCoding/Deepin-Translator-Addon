@@ -1,0 +1,11 @@
+{
+  "name": "deepin-store-translator",
+  "version": "1.0",
+  "description": "Automatically translates Chinese app descriptions in Deepin Store.",
+  "scripts": {
+    "inject": "inject.js"
+  },
+  "backend": {
+    "translate": "./translate.sh"
+  }
+}
