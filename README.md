@@ -1,2 +1,2 @@
 # Deepin-Translator-Addon
-a translator for DEEPIN from chinese to you locale
+a translator for DEEPIN from chinese to your locale
